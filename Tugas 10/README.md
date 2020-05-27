@@ -31,8 +31,8 @@ Berikut hasil dari Performance Test Menggunakan Load Balancer (pada async server
 
 Hasil Performance Test Asynchronous Server menggunakan Load Balancer
 
-![alt text](https://github.com/jalerdio/PROGJAR_05111740000173/blob/master/Tugas10/Results/1000-1.png)
-![alt text](https://github.com/jalerdio/PROGJAR_05111740000173/blob/master/Tugas10/Results/1000-10.png)
-![alt text](https://github.com/jalerdio/PROGJAR_05111740000173/blob/master/Tugas10/Results/1000-100.png)
-![alt text](https://github.com/jalerdio/PROGJAR_05111740000173/blob/master/Tugas10/Results/1000-500.png)
-![alt text](https://github.com/jalerdio/PROGJAR_05111740000173/blob/master/Tugas10/Results/1000-1000.png)
+![alt text](https://github.com/haritssm/progjar-b-its-2020/blob/master/Tugas%2010/ss/1000-1.png)
+![alt text](https://github.com/haritssm/progjar-b-its-2020/blob/master/Tugas%2010/ss/1000-10.png)
+![alt text](https://github.com/haritssm/progjar-b-its-2020/blob/master/Tugas%2010/ss/1000-100.png)
+![alt text](https://github.com/haritssm/progjar-b-its-2020/blob/master/Tugas%2010/ss/1000-500.png)
+![alt text](https://github.com/haritssm/progjar-b-its-2020/blob/master/Tugas%2010/ss/1000-1000.png)
