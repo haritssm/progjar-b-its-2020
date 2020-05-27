@@ -24,17 +24,17 @@ Berikut hasil dari Performance Test pada kedua model server
 
 Hasil Pada Server Asynchronous
 
-![alt text](https://github.com/jalerdio/PROGJAR_05111740000173/blob/master/Tugas9/Results/async_1000-1.png)
-![alt text](https://github.com/jalerdio/PROGJAR_05111740000173/blob/master/Tugas9/Results/async_1000-10.png)
-![alt text](https://github.com/jalerdio/PROGJAR_05111740000173/blob/master/Tugas9/Results/async_1000-100.png)
-![alt text](https://github.com/jalerdio/PROGJAR_05111740000173/blob/master/Tugas9/Results/async_1000-500.png)
-![alt text](https://github.com/jalerdio/PROGJAR_05111740000173/blob/master/Tugas9/Results/async_1000-1000.png)
+![alt text](https://github.com/haritssm/progjar-b-its-2020/blob/master/Tugas%209/ss/async_1000-1.png)
+![alt text](https://github.com/haritssm/progjar-b-its-2020/blob/master/Tugas%209/ss/async_1000-10.png)
+![alt text](https://github.com/haritssm/progjar-b-its-2020/blob/master/Tugas%209/ss/async_1000-100.png)
+![alt text](https://github.com/haritssm/progjar-b-its-2020/blob/master/Tugas%209/ss/async_1000-500.png)
+![alt text](https://github.com/haritssm/progjar-b-its-2020/blob/master/Tugas%209/ss/async_1000-1000.png)
 
 
 Hasil Pada Server Thread
 
-![alt text](https://github.com/jalerdio/PROGJAR_05111740000173/blob/master/Tugas9/Results/thread_1000-1.png)
-![alt text](https://github.com/jalerdio/PROGJAR_05111740000173/blob/master/Tugas9/Results/thread_1000-10.png)
-![alt text](https://github.com/jalerdio/PROGJAR_05111740000173/blob/master/Tugas9/Results/thread_1000-100.png)
-![alt text](https://github.com/jalerdio/PROGJAR_05111740000173/blob/master/Tugas9/Results/thread_1000-500.png)
-![alt text](https://github.com/jalerdio/PROGJAR_05111740000173/blob/master/Tugas9/Results/thread_1000-1000.png)
+![alt text](https://github.com/haritssm/progjar-b-its-2020/blob/master/Tugas%209/ss/thread_1000-1.png)
+![alt text](https://github.com/haritssm/progjar-b-its-2020/blob/master/Tugas%209/ss/thread_1000-10.png)
+![alt text](https://github.com/haritssm/progjar-b-its-2020/blob/master/Tugas%209/ss/thread_1000-100.png)
+![alt text](https://github.com/haritssm/progjar-b-its-2020/blob/master/Tugas%209/ss/thread_1000-500.png)
+![alt text](https://github.com/haritssm/progjar-b-its-2020/blob/master/Tugas%209/ss/thread_1000-1000.png)
