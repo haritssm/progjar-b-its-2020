@@ -2,7 +2,7 @@
 
 <h2>Protokol</h2>
 
-![Protokol Program](https://user-images.githubusercontent.com/45732575/77444587-a1274100-6e1e-11ea-9623-fc789e86b6d2.png)
+![Protokol Program](https://github.com/haritssm/progjar-b-its-2020/blob/master/Tugas%204/ss/Screenshot%20(131).png)
 
 <h2>Menyalakan Server</h2>
 Jalankan server.py untuk menerima request dari client
